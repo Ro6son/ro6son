@@ -1,4 +1,4 @@
-<h1 align="center"> ✌😉 Olá, eu sou Rob Desenvolvedor Front-End 💻🤖⚡<h1>
+<h1 align="center"> ✌😉 Hi, I'm a dev student in <T>  💻🤖⚡<h1>
 
 <div align="center">
   <a href="https://github.com/ro6son">
